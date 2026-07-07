@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**Praneetha-cell/Praneetha-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering Student
+💻 Java Developer | Python Programmer | DSA Enthusiast 
+🚀 Aspiring Software Engineer
 
-Here are some ideas to get you started:
+Hi! I'm a 3rd-year Computer Science student with a passion for software development and continuous learning. I enjoy solving problems using Data Structures & Algorithms, building real-world applications, and exploring technologies that improve my development skills. I'm currently focused on Java, Python, and creating practical projects that strengthen my software engineering fundamentals.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+Languages
+Java
+Python
+C
+SQL
+## Core CS
+Data Structures & Algorithms
+Object-Oriented Programming
+DBMS
+Operating Systems
+## Frameworks & Tools
+Git,GitHub
+Flet
+MySQL, Oracle 11g express
+VS Code
+Eclipse
